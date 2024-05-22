@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: MrSwaGGah's TFT
 ---
 
 # Isaac Newton
